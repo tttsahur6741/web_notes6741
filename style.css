@@ -1,3 +1,4 @@
-body    {
-    background-color: white;
-}
+body {background: grey; font-size: 67;}
+main {background: white; font-size: 25; width: 50%; height:75%;}
+
+.bold {font-weight: bold; border-bottom: green dashed 5px;}
