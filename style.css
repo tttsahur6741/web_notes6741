@@ -1,7 +1,7 @@
 header {
     color: darkslategrey;
     background-color: #71b3e9;
-    font-size: 30px;
+    font-size: 45px;
     text-align: center;
 }
 
@@ -10,6 +10,7 @@ h2 {
     color: darkslategrey;
     background-color: #71b3e9;
     text-align: center;
+    font-size: 25px;
 }
 
 head {
