@@ -6,8 +6,10 @@ header {
 
 h2 {
     font-size: small;
+    color: darkslategrey;
+    background-color: #71b3e9;
 }
 
 head {
-    background-color: grey;
+    background-color: #71b3e9;
 }
