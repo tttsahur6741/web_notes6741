@@ -1,4 +1,7 @@
-body {background: grey; font-size: 67;}
-main {background: white; font-size: 25; width: 50%; height:75%;}
+header {
+    color: white;
+}
 
-.bold {font-weight: bold; border-bottom: green dashed 5px;}
+head {
+    background-color: grey;
+}
